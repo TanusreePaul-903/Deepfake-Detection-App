@@ -6,9 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 <img width="1920" height="4596" alt="screencapture-localhost-8501-2025-06-13-01_50_03" src="https://github.com/user-attachments/assets/1c041ed7-295d-4474-91af-02d505050fa9" />
 
-## An AI-powered web app that detects deepfake images with 90%+ accuracy using TensorFlow and Streamlit. ##
+## An AI-powered web app that detects deepfake images using TensorFlow and Streamlit. ##
 
-## 🚀 Features
+## Features
 - Real-time deepfake detection
 - Hybrid neural network analysis
 - Responsive image preview with adjustable sizing
