@@ -33,5 +33,5 @@ deepfake-detection-app/
 └── samples/             # Additional examples
 
 ## Contact ##
-Tanusree Paul - tanusreepaul903@gmail.com
+Tanusree Paul - tanusreepaul903@gmail.com  
 Project Link: https://github.com/TanusreePaul-903/deepfake-detection-app
