@@ -1,10 +1,12 @@
 # Deepfake Detection using Xception
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 <img width="1920" height="4596" alt="screencapture-localhost-8501-2025-06-13-01_50_03" src="https://github.com/user-attachments/assets/1c041ed7-295d-4474-91af-02d505050fa9" />
+
+## An AI-powered web app that detects deepfake images with 90%+ accuracy using TensorFlow and Streamlit. ##
 
 ## 🚀 Features
 - Real-time deepfake detection
@@ -17,11 +19,11 @@ Backbone: Xception Network
 Input Size: 299x299x3
 Output: Real/Fake probability (0-1)
 
-## 📂 Dataset
+## Dataset
 This project uses the **[Deepfake Detection Challenge Dataset]([https://www.kaggle.com/c/deepfake-detection-challenge](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data))** and similar public datasets. 
 Due to size constraints, datasets are **not** included in this repository. Please download them separately from the source.
 
-**Project Structure**
+## Project Structure ##
 text
 deepfake-detection-app/
 ├── app.py               # Main application
@@ -30,6 +32,6 @@ deepfake-detection-app/
 ├── static/              # Sample test images
 └── samples/             # Additional examples
 
-**Contact**
+## Contact ##
 Tanusree Paul - tanusreepaul903@gmail.com
 Project Link: https://github.com/TanusreePaul-903/deepfake-detection-app
