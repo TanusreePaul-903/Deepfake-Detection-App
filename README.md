@@ -24,7 +24,7 @@ This project uses the **[Deepfake Detection Challenge Dataset]([https://www.kagg
 Due to size constraints, datasets are **not** included in this repository. Please download them separately from the source.
 
 ## Project Structure ##
-text
+text  
 deepfake-detection-app/
 ├── app.py               # Main application  
 ├── requirements.txt     # Dependencies  
