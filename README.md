@@ -25,7 +25,7 @@ Due to size constraints, datasets are **not** included in this repository. Pleas
 
 ## Project Structure ##
 text  
-deepfake-detection-app/
+deepfake-detection-app/  
 ├── app.py               # Main application  
 ├── requirements.txt     # Dependencies  
 ├── model/               # Pretrained models  
