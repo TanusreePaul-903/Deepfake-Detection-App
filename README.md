@@ -1,5 +1,11 @@
-An AI-powered web app that detects deepfake images with 90%+ accuracy using TensorFlow and Streamlit.
+# Deepfake Detection using Xception
+
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
+![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 <img width="1920" height="4596" alt="screencapture-localhost-8501-2025-06-13-01_50_03" src="https://github.com/user-attachments/assets/1c041ed7-295d-4474-91af-02d505050fa9" />
+
 ## 🚀 Features
 - Real-time deepfake detection
 - Hybrid neural network analysis
@@ -10,6 +16,10 @@ An AI-powered web app that detects deepfake images with 90%+ accuracy using Tens
 Backbone: Xception Network
 Input Size: 299x299x3
 Output: Real/Fake probability (0-1)
+
+## 📂 Dataset
+This project uses the **[Deepfake Detection Challenge Dataset]([https://www.kaggle.com/c/deepfake-detection-challenge](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data))** and similar public datasets. 
+Due to size constraints, datasets are **not** included in this repository. Please download them separately from the source.
 
 **Project Structure**
 text
